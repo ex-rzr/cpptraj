@@ -1,4 +1,4 @@
-CPPTRAJ
+CPPTRAJ test3
 =======
 
 Fast, parallelized molecular dynamics trajectory data analysis.
